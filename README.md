@@ -1,2 +1,2 @@
-# sd-front
-sd comics front end
+# sd-web
+sd comics web
